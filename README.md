@@ -11,7 +11,8 @@ This project is intended to demonstrate my newly-budding abilities in website de
 
 ## Setup/Installation Requirements
 
-* Download or Clone the repo from https://github.com/Umitosan/portfolio
+* view the page directly on GitHub: https://umitosan.github.io/portfolio
+* or, Download or Clone the repo from https://github.com/Umitosan/portfolio
 * Open the "portfolio" folder
 * Open index.hml in your browser
 
