@@ -1,3 +1,11 @@
+body {
+  background: linear-gradient(135deg, #f8ffe8 0%,#87d2cd 70%,#e0f6fc 100%);
+}
+
+.back {
+  background-color: #e0f6fc;
+}
+
 .topbar .col-md-1 {
   padding: 35px;
   border-style: solid;
@@ -5,50 +13,8 @@
   border-color: black;
 }
 
-.back {
-  background-color: #e0f6fc;
-}
-
-.name_main {
-  font-family: ‘Palatino Linotype’;
-  text-align: center;
-}
-
-.h5main {
-  font-family: 'Trebuchet MS';
-  text-align: center;
-}
-
-.jumbotron {
-  background-color: inherit;
-  font-family: serif;
-  text-align: center;
-}
-
-.about {
-  font-family: inherit;
-  padding-left: 150px;
-  padding-right: 150px;
-}
-
-.about h3{
-  font-size: 34px;
-  padding-left: 10px;
-}
-
-.about_body {
-  font-family: serif;
-  font-size: 18px;
-}
-
-#ti83 {
-  float: right;
-  width: 60px;
-  padding-left: 10px;
-}
-
 .profile_banner {
-  /*background-color: #f4f8ff;*/
+  background-color: #efffff;
 }
 
 .headshot {
@@ -71,6 +37,58 @@
   font-family: 'Trebuchet MS';
   padding-top: 60px;
   text-align: center;
+}
+
+.name_main {
+  font-family: ‘Palatino Linotype’;
+  text-align: center;
+}
+
+.h5main {
+  font-family: 'Trebuchet MS';
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: inherit;
+  font-family: serif;
+  text-align: center;
+}
+
+.about {
+  /*border-style: solid;
+  border-color: lightblue;*/
+  font-family: inherit;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.about h3{
+  font-size: 34px;
+  padding-left: 10px;
+}
+
+.about_body {
+  font-family: serif;
+  font-size: 18px;
+}
+
+.quickspan {
+  font-weight: bolder;
+}
+
+.img_resize {
+  max-width: 80%;
+  float: top;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#ti83 {
+  float: right;
+  width: 60px;
+  padding-left: 10px;
+  padding-bottom: 20px;
 }
 
 .bodyrow1 {
